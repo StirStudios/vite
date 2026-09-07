@@ -1,0 +1,18 @@
+{
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev"
+  },
+  "dependencies": {
+    "nuxt": "4.5.2",
+    "vue": "3.5.42",
+    "vue-router": "4.6.4"
+  },
+  "pnpm": {
+    "overrides": {
+      "vite": "8.2.2"
+    }
+  }
+}

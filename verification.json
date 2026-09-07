@@ -1,0 +1,19 @@
+{
+  "browser": "153.0.8010.12",
+  "results": [
+    {
+      "variant": "stock",
+      "emptyResolutions": 144,
+      "sections": 48,
+      "styles": 48,
+      "scripts": 52
+    },
+    {
+      "variant": "patched",
+      "emptyResolutions": 0,
+      "sections": 48,
+      "styles": 48,
+      "scripts": 52
+    }
+  ]
+}

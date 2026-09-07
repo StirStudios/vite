@@ -1,0 +1,44 @@
+[
+  {
+    "variant": "stock",
+    "run": 1,
+    "tbt": 90.14900000000011,
+    "lcp": 659.975,
+    "scripts": 52
+  },
+  {
+    "variant": "patched",
+    "run": 1,
+    "tbt": 80.89800000000014,
+    "lcp": 664.923,
+    "scripts": 52
+  },
+  {
+    "variant": "patched",
+    "run": 2,
+    "tbt": 84.38200000000006,
+    "lcp": 650.865,
+    "scripts": 52
+  },
+  {
+    "variant": "stock",
+    "run": 2,
+    "tbt": 90.36199996948244,
+    "lcp": 663.463,
+    "scripts": 52
+  },
+  {
+    "variant": "stock",
+    "run": 3,
+    "tbt": 86.89399999999978,
+    "lcp": 660.719,
+    "scripts": 52
+  },
+  {
+    "variant": "patched",
+    "run": 3,
+    "tbt": 71.76299999999969,
+    "lcp": 651.288,
+    "scripts": 52
+  }
+]
